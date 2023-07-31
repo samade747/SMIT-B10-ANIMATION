@@ -4,12 +4,12 @@
     background-color: orange;
     /* transition: background-color 1s; */
     transition-timing-function: linear;
-    transition-duration: 3s;
+    transition-duration: 10s;
 }
 
 .one:hover {
     /* background-color: blue; */
-    transform: translate(800px);
+    transform: translate(1500px);
     /* transform: rotate(30deg); */
     /* transform: scale(2);
     transform: translate(500px, 200px); */
